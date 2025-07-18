@@ -1,0 +1,80 @@
+{
+  "title": "Machine Learning Notes 📝  (1).pdf",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "0   age                       299 non-null    float64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1   anaemia                   299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2   creatinine_phosphokinase  299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "3   diabetes                  299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "4   ejection_fraction         299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "5   high_blood_pressure       299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "6   platelets                 299 non-null    float64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "7   serum_creatinine          299 non-null    float64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "8   serum_sodium              299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "9   sex                       299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "10  smoking                   299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "11  time                      299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "12  DEATH_EVENT               299 non-null    int64",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "0       0.77      0.94      0.85        35",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "1       0.88      0.60      0.71        25",
+      "page": 13
+    }
+  ]
+}
