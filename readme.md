@@ -9,6 +9,7 @@ The "Connecting the Dots" Challenge aims to transform traditional PDF reading in
 ## Project Structure
 
 The repository is organized as follows:
+```
 
 .
 ├── Dockerfile                      # Dockerfile for Round 1A solution (outline extraction)
@@ -32,7 +33,7 @@ The repository is organized as follows:
 │   ├── input/                      # Input PDFs (and persona.txt/job_description.txt for R1B)
 │   └── output/                     # Output JSON files
 └── problem statement.pdf           # Original problem statement document
-
+```
 ## Round 1A: Understand Your Document (Outline Extraction)
 
 This round focuses on extracting a structured outline from PDF documents.
