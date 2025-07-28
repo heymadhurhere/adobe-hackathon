@@ -118,6 +118,7 @@ RUN mkdir -p /app/input /app/output
 # The 'main.py' script is designed to automatically process files within '/app/input'
 # and write results to '/app/output', aligning with the hackathon's execution requirements.
 CMD ["python", "main.py"]
+```
 
 ## Build and Run Instructions for Round 1A
 
